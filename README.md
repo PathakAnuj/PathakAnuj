@@ -1,4 +1,10 @@
 ### Hi there 👋
+🔭 I’m currently working on: Electricity bill generation project.
+🌱 I’m currently learning: Java and Spring Boot.
+👯 I’m looking to collaborate on: Projects related to Java and Spring Boot.
+🤔 I’m looking for help with: None specified.
+💬 Ask me about: DBMS, Java, and Git.
+📫 How to reach me: LinkedIn at https://www.linkedin.com/in/ramanujpathak/.
 
 <!--
 **PathakAnuj/PathakAnuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
