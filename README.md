@@ -5,8 +5,6 @@
 
 - 👨🏽‍💻 I’m currently an IT Undergrad student at Dr. A.P.J. Abdul Kalam Technical University, Uttar Pradesh.
 
-- ✨ I’m a member at @cognizance and mentor at @AMC-FOSS, student clubs at Amrita School of Engineering Chennai
-
 - 🔭 I’m currently working on Web Development.
 
 - 🌱 I’m currently exploring everything😂.
